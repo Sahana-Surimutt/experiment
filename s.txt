@@ -27,4 +27,13 @@ b=temp;
 printf("a=%d,b=%d",a,b);
 >>>>>>> 9be000aea9ba0ac8180389bad55a537ec81d122a
 }
+//sudeep file//
 
+#include<stdio.h>
+int main()
+{
+int a,b,c;
+a=10;
+b=5;
+c=a-b;
+printf("sum is %d",c);
